@@ -26,7 +26,7 @@
     "glob": "~3.1.9",
     "nopt": "~1.0.10",
     "dustjs-linkedin": "~0.4.0",
-    "hogan.js": "~2.0.0"
+    "hogan.js": "*"
   },
   "devDependencies": {
     "vows": "~0.6.2"
